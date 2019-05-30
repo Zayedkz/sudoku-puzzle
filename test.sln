@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku Puzzle", "Sudoku Puzzle.csproj", "{ED633B49-EBA8-452D-AB3C-5C5ED1293D05}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sudoku_Puzzle_Setup", "..\Sudoku_Puzzle_Setup\Sudoku_Puzzle_Setup.vdproj", "{CC86DB98-E6A0-4DAA-A169-D1204F23DBCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{ED633B49-EBA8-452D-AB3C-5C5ED1293D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED633B49-EBA8-452D-AB3C-5C5ED1293D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED633B49-EBA8-452D-AB3C-5C5ED1293D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC86DB98-E6A0-4DAA-A169-D1204F23DBCD}.Debug|Any CPU.ActiveCfg = Debug
+		{CC86DB98-E6A0-4DAA-A169-D1204F23DBCD}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
