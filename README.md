@@ -1,5 +1,5 @@
 # ![logo](https://i.gyazo.com/7944f3fa7c3282e6ba8aed49f4f5ab8e.png) Sudoku Puzzle
-Sudoku Puzzle is a windows application that was created using C# and [WPF](https://docs.microsoft.com/en-us/visualstudio/designers/introduction-to-wpf?view=vs-2019) as part of .NET Framework. It utilizes an algorithm that generates a new puzzle with a unique solution everytime the player makes a request. The player has three difficulties to choose from: easy, medium, and hard.
+Sudoku Puzzle is a windows application that was developed using C# and [WPF](https://docs.microsoft.com/en-us/visualstudio/designers/introduction-to-wpf?view=vs-2019) as part of .NET Framework. It utilizes an algorithm that generates a new puzzle with a unique solution everytime the player makes a request. The player has three difficulties to choose from: easy, medium, and hard.
 
 ![Image of Game](https://i.gyazo.com/dbd052a68422340943a45e307b51ccf0.png)
 
